@@ -90,4 +90,3 @@ Ex :- Majority of models
 7. Model Deployment: Deploy on servers for users to use
 8. Testing: Allow trusted users to use it and take actions on their feedback, A/B Testing, etc
 9. Optimize: Updating the data and retraining the model with modern new steps, along with maintaing the operations over large chunk of users
-
